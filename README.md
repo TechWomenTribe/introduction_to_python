@@ -28,6 +28,8 @@ If you see the outputs above, then you have successfully installed Python! It is
 
 https://jupyter.org/install
 
+>pip install notebook
+
 
 # Test it
 
