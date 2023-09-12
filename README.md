@@ -9,27 +9,35 @@ However, we understand that some of these tools may be new to you. That's perfec
 
 This day is just meant to give you a glimpse at what it means to build tech products, and to show you it is not as scary as it looks.
 You don't need to understand every aspect in fine detail.
-Sometimes, following the instructions and progressing to the next step is perfectly fine. In fact, even experienced developers often solve problems in this way!
+Sometimes, following the instructions without fully understanding them and progressing to the next step is perfectly fine. In fact, even experienced developers often solve problems in this way!
 
-Please remember to believe in yourself and approach this day with a mindset of getting the most out of it.
+Please, don't be afraid to ask questions, thera are no bad questions. Remember to believe in yourself and approach this day with a mindset of getting the most out of it.
 
-We strongly believe that we need more women in tech. Diversity bring more angles and ideas, and more ideas mean better solutions, and better solutions means a better industry.
+We strongly believe that we need more women in tech. Diversity bring more perspectives and ideas, and more perspectives and ideas mean better solutions, and better solutions means a better industry.
 
 
 ### Install PyCharm Community version
 https://www.jetbrains.com/pycharm/download/#section=mac
 
-PyCharm is an IDE, what is an IDE?
+PyCharm is an IDE, what is an IDE you ask? good question.
 An IDE is a software program that helps people write and edit code more easily. It has tools to catch mistakes, make coding faster, and helps with organizing and testing your code. Essentially, it's a helpful tool for people learning or working with coding.
 
 ### Install Python
 https://www.python.org/downloads/
 
-What is Python you ask?
+What is Python you ask? good question.
 Python is a popular programming language known for its simplicity and versatility. It is used for web development, data analysis, AI, and more, and is beginner-friendly with a clean and readable syntax.
 
 
 #### What is pip?
+Python installation will also install PIP.
+What is PIP you ask? good question.
+PIP is the standard package manager for Python. It helps users easily install, manage, and uninstall Python libraries and packages from the Python Package Index (PyPI).
+
+What is a Python package you ask? even better question
+A Python package is a way to organize and distribute Python code. It is a collection of code files, that someone already written for us, that can be easily imported and used in other Python programs.
+Basically meant to not re-invent the wheel everytime we create a new Python program.
+
 https://pip.pypa.io/en/stable/installation/
 
 
