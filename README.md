@@ -6,7 +6,7 @@ This page will provide you with detailed instructions on how to set up all the n
 but first......
 
 We understand that some of these concepts and tools may be new to you. That's perfectly okay! We will guide you through each step and explain everything gradually. It's important to know that you don't have to grasp everything immediately, and you are not expected to become a professional software developer after this workshop.
-(However, it is important to mention, that we held a similar workshop last year, and as a result of the workshop, some participants were able to start pursuing a career in tech! so.. eveverything is possible!)
+(However, it is important to mention, that we held a similar workshop last year, and as a result of the workshop, some participants were able to start pursuing a career in tech! so.. eveverything is possible! 🚀)
 
 This day is just meant to give you a glimpse at what it means to build tech products, and to show you it is not as scary as it may seem.
 You don't need to understand every aspect in fine detail.
