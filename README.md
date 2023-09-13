@@ -102,13 +102,13 @@ The Terminal application on a Mac is a command-line interface that allows users 
 
 **Now, On Terminal if you have an Apple laptop, or on the Command Prompt if you have a Windows:**
 
-- Execute ``python3 --version``
+- Type  `python3 --version`
 
 With this command, we're checking if Python was installed, and if it was, then what is the version of Python which was installed - this is the best indiciation whether Python was installed properly.
 
 Do you see the output?  
 >Python 3.N.N
-- Execute `python3 -m pip --version`
+- Type `python3 -m pip --version`
 
 With this command, we're checking if PIP was installed, and if it was, then what is the version of PIP which was installed - this is the best indiciation whether PIP was installed properly.
 
@@ -129,7 +129,7 @@ https://jupyter.org/install
 Again, on Terminal, please run,
 This command will use PIP, to install the Jupyter Notebook.
 
->pip install notebook
+- Type `pip install notebook`
 
 
 # Test it
@@ -137,7 +137,7 @@ This command will use PIP, to install the Jupyter Notebook.
 Let's test if the Jupyter Notebook was indeed installed.
 
 Start the notebook server from the Terminal app:
-`jupyter notebook`
+- Type `jupyter notebook`
 You should see the web page of the Notebook open in your browser.
 
 
