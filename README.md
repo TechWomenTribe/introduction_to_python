@@ -25,6 +25,11 @@ but only if you're feeling adventurous 🙂)
 Now let's get this show on the road! 
 
 ### Install PyCharm Community version
+
+**If you have a Windows Laptop:**
+https://www.jetbrains.com/pycharm/download/?section=windows
+
+**If you have an Apple laptop:**
 https://www.jetbrains.com/pycharm/download/#section=mac
 
 PyCharm is an IDE, what is an IDE you ask? good question.
@@ -36,7 +41,6 @@ What is Python you ask? good question.
 Python is a popular programming language known for its simplicity and versatility. It is used for web development, data analysis, AI, and more, and is beginner-friendly with a clean and readable syntax.
 (Of course Python is the writer's of this document favourite progmramming language, and I do expect it to be your favourite as well! Joking 😅)
 
-**If you have a Windows Laptop:**
 
 First check whether your computer is running a 32-bit version or a 64-bit version of Windows, on the "System type" line of the System Info page. To reach this page, try one of these methods:
 
