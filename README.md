@@ -139,6 +139,7 @@ Let's test if the Jupyter Notebook was indeed installed.
 **In order to start the Notebook, on Terminal if you have an Apple laptop, or on the Command Prompt if you have a Windows:**
 
 - Type `jupyter notebook`
+  
 You should see the web page of the Notebook open in your browser.
 
 
