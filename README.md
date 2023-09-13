@@ -31,11 +31,31 @@ PyCharm is an IDE, what is an IDE you ask? good question.
 An IDE is a software program that helps people write and edit code more easily. It has tools to catch mistakes, make coding faster, and helps with organizing and testing your code. Essentially, it's a helpful tool for people learning or working with coding.
 
 ### Install Python
-https://www.python.org/downloads/
 
 What is Python you ask? good question.
 Python is a popular programming language known for its simplicity and versatility. It is used for web development, data analysis, AI, and more, and is beginner-friendly with a clean and readable syntax.
 (Of course Python is the writer's of this document favourite progmramming language, and I do expect it to be your favourite as well! Joking 😅)
+
+**If you have a Windows Laptop:**
+
+First check whether your computer is running a 32-bit version or a 64-bit version of Windows, on the "System type" line of the System Info page. To reach this page, try one of these methods:
+
+Press the Windows key and Pause/Break key at the same time
+Open your Control Panel from the Windows menu, then navigate to System & Security, then System
+Press the Windows button, then navigate to Settings > System > About
+Search the Windows Start menu for "System Information". To do that, click the Start button or press the Windows key, then begin to type System Information. It will start making suggestions as soon as you type. You can select the entry once it shows up.
+You can download Python for Windows from the website https://www.python.org/downloads/windows/. Click on the "Latest Python 3 Release - Python x.x.x" link. If your computer is running a 64-bit version of Windows, download the Windows x86-64 executable installer. Otherwise, download the Windows x86 executable installer. After downloading the installer, you should run it (double-click on it) and follow the instructions there.
+
+One thing to watch out for: During the installation, you will notice a window marked "Setup". Make sure you tick the "Add Python 3.8 to PATH" or 'Add Python to your environment variables" checkbox and click on "Install Now".
+
+**If you have an Apple laptop:**
+
+> Note Before you install Python on OS X, you should ensure your Mac settings allow installing packages that aren't from the App Store. Go to System Preferences (it's in the Applications folder), click "Security & Privacy," and then the "General" tab. If your "Allow apps downloaded from:" is set to "Mac App Store," change it to "Mac App Store and identified developers."
+
+You need to go to the website https://www.python.org/downloads/mac-osx/ and download the latest Python installer:
+
+* Download the Mac OS X 64-bit/32-bit installer file,
+* Double click python-3.8.6-macosx10.9.pkg to run the installer.
 
 
 #### What is pip?
@@ -53,13 +73,30 @@ https://pip.pypa.io/en/stable/installation/
 # Test your Python installation
 After you installed Python, and all the needed software to execute Python code on your laptop, let's see if it works!
 
-If you have an Apple Mac Laptop:
+**If you have a Windows laptop:**
+
+Depending on your version of Windows and your keyboard, one of the following should open a command window (you may have to experiment a bit, but you don't have to try all of these suggestions):
+
+* Go to the Start menu or screen, and enter "Command Prompt" in the search field.
+* Go to Start menu → Windows System → Command Prompt.
+* Go to Start menu → All Programs → Accessories → Command Prompt.
+* Go to the Start screen, hover your mouse in the lower-left corner of the screen, and click the down arrow that appears (on a touch screen, instead flick up from the bottom of the screen). The Apps page should open. Click on Command Prompt in the Windows System section.
+* Hold the special Windows key on your keyboard and press the "X" key. Choose "Command Prompt" from the pop-up menu.
+* Hold the Windows key and press the "R" key to get a "Run" window. Type "cmd" in the box, and click the OK key.
+ןכ
+![image](https://github.com/TechGirlsTribe1/introduction_to_python/assets/6695760/17ba7471-8452-4a23-b96f-d1097655d811)
+
+Try it now on your computer and see what happens!
+
+**If you have an Apple laptop:**
 
 Can you run the commands below without errors?
 - Open Terminal
 
 What is Terminal?
 The Terminal application on a Mac is a command-line interface that allows users to interact with the operating system and execute commands using text-based input.
+
+**Now, On Terminal if you have an Apple laptop, or on the Command Prompt if you have a Windows:**
 
 - Execute ``python3 --version``
 
