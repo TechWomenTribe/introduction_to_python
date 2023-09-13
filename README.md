@@ -44,6 +44,8 @@ Python is a popular programming language known for its simplicity and versatilit
 
 First check whether your computer is running a 32-bit version or a 64-bit version of Windows, on the "System type" line of the System Info page. To reach this page, try one of these methods:
 
+**If you have a Windows Laptop:**
+
 Press the Windows key and Pause/Break key at the same time
 Open your Control Panel from the Windows menu, then navigate to System & Security, then System
 Press the Windows button, then navigate to Settings > System > About
