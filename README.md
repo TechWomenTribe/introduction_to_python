@@ -6,6 +6,7 @@ This page will provide you with detailed instructions on how to set up all the n
 but first......
 
 We understand that some of these concepts and tools may be new to you. That's perfectly okay! We will guide you through each step and explain everything gradually. It's important to know that you don't have to grasp everything immediately, and you are not expected to become a professional software developer after this workshop.
+(However, it is important to mention, that we held a similar event last year, and indeed some participants were able to pursue a career in tech! so.. eveverything is possible!)
 
 This day is just meant to give you a glimpse at what it means to build tech products, and to show you it is not as scary as it may seem.
 You don't need to understand every aspect in fine detail.
@@ -34,6 +35,7 @@ https://www.python.org/downloads/
 
 What is Python you ask? good question.
 Python is a popular programming language known for its simplicity and versatility. It is used for web development, data analysis, AI, and more, and is beginner-friendly with a clean and readable syntax.
+(Of course Python is the writer's of this document favourite progmramming language, and I do expect it to be your favourite as well! Joking 😅)
 
 
 #### What is pip?
