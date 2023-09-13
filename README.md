@@ -5,9 +5,9 @@ This page will provide you with detailed instructions on how to set up all the n
 
 but first......
 
-We understand that some of these tools may be new to you. That's perfectly okay! We will guide you through each step and explain everything gradually. It's important to know that you don't have to grasp everything immediately, and you are not expected to become a professional software developer after this workshop.
+We understand that some of these concepts and tools may be new to you. That's perfectly okay! We will guide you through each step and explain everything gradually. It's important to know that you don't have to grasp everything immediately, and you are not expected to become a professional software developer after this workshop.
 
-This day is just meant to give you a glimpse at what it means to build tech products, and to show you it is not as scary as it looks.
+This day is just meant to give you a glimpse at what it means to build tech products, and to show you it is not as scary as it may seem.
 You don't need to understand every aspect in fine detail.
 Sometimes, following the instructions without fully understanding them and progressing to the next step is perfectly fine. In fact, even experienced developers often solve problems in this way!
 
@@ -17,7 +17,7 @@ Remember to *believe in yourself* and approach this day with a mindset of gettin
 
 We strongly believe that we need more women in tech. Diversity (of any sort) brings more perspectives and ideas, and more perspectives and ideas mean better solutions, and better solutions means a better industry.
 
-If you're having problems, in any of the steps, please do not hesitate to contact your assigned mentor, he or she will be delighted to help!
+If you're having problems, in any of the steps, please do not hesitate to contact your assigned mentor, she or he will be delighted to help!
 (btw, experienced developers, need to be independent as possible, and each of the following steps has plenty of information online, so you can also of course, try to Google the solution yourself,
 but only if you're feeling adventurous 🙂)
 
@@ -49,8 +49,7 @@ https://pip.pypa.io/en/stable/installation/
 
 
 # Test your Python installation
-
-After you installed Python, and all the needed software to execute Python code on your laptop, now let's see if it works!
+After you installed Python, and all the needed software to execute Python code on your laptop, let's see if it works!
 
 If you have an Apple Mac Laptop:
 
@@ -80,8 +79,12 @@ If you see the outputs above, then you have successfully installed Python! It is
 What is Jupyter Notebook? yet another good question,
 
 Jupyter Notebook is a web-based tool where you can write and run code in a variety of languages (like Python, R, and Julia), visualize data, and create shareable documents. It's great for data cleaning, data visualization, prototyping, and sharing results.
+We will use Jupyter Notebook in the first part of the workshop, to run and test basic Python commands.
 
 https://jupyter.org/install
+
+Again, on Terminal, please run,
+This command will use PIP, to install the Jupyter Notebook.
 
 >pip install notebook
 
@@ -96,6 +99,5 @@ You should see the web page of the Notebook open in your browser.
 
 
 That's it, you're all set and ready for the workshop! good job!
-
 
 
