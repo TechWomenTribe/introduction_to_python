@@ -94,8 +94,7 @@ Try it now on your computer and see what happens!
 
 **If you have an Apple laptop:**
 
-Can you run the commands below without errors?
-- Open Terminal
+- Open the Terminal application (It is already installed by default on an Apple laptop)
 
 What is Terminal?
 The Terminal application on a Mac is a command-line interface that allows users to interact with the operating system and execute commands using text-based input.
