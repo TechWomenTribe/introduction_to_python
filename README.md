@@ -124,13 +124,10 @@ What is Jupyter Notebook? yet another good question,
 Jupyter Notebook is a web-based tool where you can write and run code in a variety of languages (like Python, R, and Julia), visualize data, and create shareable documents. It's great for data cleaning, data visualization, prototyping, and sharing results.
 We will use Jupyter Notebook in the first part of the workshop, to run and test basic Python commands.
 
-https://jupyter.org/install
-
-Again, on Terminal, please run,
-This command will use PIP, to install the Jupyter Notebook.
-
+Run this command which will use PIP to install the Jupyter Notebook:
 - Type `pip install notebook`
 
+More info can be found on: https://jupyter.org/install
 
 # Test it
 
