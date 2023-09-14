@@ -1,4 +1,4 @@
-# Introduction to Python - Please read!
+# Introduction to Python - Please read! 🙂
 
 Hello dear participant! Thank you for choosing to be a part of this amazing event! We are thrilled to have you on board. 
 This page will provide you with detailed instructions on how to set up all the necessary pre-requisites for the workshop.
@@ -39,7 +39,7 @@ An IDE is a software program that helps people write and edit code more easily. 
 
 What is Python you ask? good question.
 Python is a popular programming language known for its simplicity and versatility. It is used for web development, data analysis, AI, and more, and is beginner-friendly with a clean and readable syntax.
-(Of course Python is the writer's of this document favourite progmramming language, and I do expect it to be your favourite as well! Joking 😅)
+(Of course Python is the writer's of this document favourite progmramming language, and we do expect it to be your favourite as well! Joking 😅)
 
 
 First check whether your computer is running a 32-bit version or a 64-bit version of Windows, on the "System type" line of the System Info page. To reach this page, try one of these methods:
