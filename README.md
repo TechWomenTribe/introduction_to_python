@@ -30,8 +30,8 @@ Now let's get this show on the road!
 
 First things first, we need to install `Git` to start working with code repositories. What is Git? Git is a distributed version control system that tracks the changes on the projects and helps to collaborate between members when working together with a team. For now, you can think of where we keep our codebase🙂
 
-**If you have a Windows Laptop:**
-Download and install the latest of git from: https://git-scm.com/download/win -> Press "Click here to download" link
+**If you have a Windows Laptop:**  
+    Download and install the latest of git from: https://git-scm.com/download/win -> Press "Click here to download" link
 
 
 **If you have an Apple laptop:**
