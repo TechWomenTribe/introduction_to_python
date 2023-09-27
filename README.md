@@ -22,7 +22,24 @@ If you're having problems, in any of the steps, please do not hesitate to contac
 (btw, experienced developers, need to be independent as possible, and each of the following steps has plenty of information online, so you can also of course, try to Google the solution yourself,
 but only if you're feeling adventurous 🙂)
 
+Note before starting everything, make sure you have the admin rights on your computer :) We need to install certain tools & technologies throughout this tutorial. If you do not have the admin rights, unfortunately it is not possible to follow this course.
+
 Now let's get this show on the road! 
+
+### Install Git
+
+First things first, we need to install `Git` to start working with code repositories. What is Git? Git is a distributed version control system that tracks the changes on the projects and helps to collaborate between members when working together with a team. For now, you can think of where we keep our codebase🙂
+
+**If you have a Windows Laptop:**
+Download and install the latest of git from: https://git-scm.com/download/win -> Press "Click here to download" link
+
+
+**If you have an Apple laptop:**
+1. Open your terminal by clicking the Launchpad in the Dock, type Terminal in the search field, then click Terminal.
+2. Execute the command to install brew: `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
+3. Now time to install git. Execute from your terminal `brew install git`
+
+Great! You installed git on your computer :)
 
 ### Install PyCharm Community version
 
