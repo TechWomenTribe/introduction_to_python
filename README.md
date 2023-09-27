@@ -38,8 +38,9 @@ First things first, we need to install `Git` to start working with code reposito
 1. Open your terminal by clicking the Launchpad in the Dock, type Terminal in the search field, then click Terminal.
 2. Execute the command to install brew: `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
 3. Now time to install git. Execute from your terminal `brew install git`
-
-Great! You installed git on your computer :)
+4. Great! You installed git on your computer :) Now time to create a Git account by following the instructions on this page: https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account
+5. After you have a username and password for git, let's clone this repository to our local machine by executing the command below.
+    `git clone https://github.com/TechWomenTribe/introduction_to_python.git`
 
 ### Install PyCharm Community version
 
