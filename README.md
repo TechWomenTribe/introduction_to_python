@@ -123,10 +123,13 @@ The Terminal application on a Mac is a command-line interface that allows users 
 
 - Type  `python3 --version`
 
-With this command, we're checking if Python was installed, and if it was, then what is the version of Python which was installed - this is the best indiciation whether Python was installed properly.
+With this command, we're checking if Python was installed, and if it was, then what is the version of Python which was installed - this is the best indication whether Python was installed properly.
 
 Do you see the output?  
 >Python 3.N.N
+
+If you do not see any output, go ahead and try `python --version`, you should see the output above 🙂
+
 - Type `python3 -m pip --version`
 
 With this command, we're checking if PIP was installed, and if it was, then what is the version of PIP which was installed - this is the best indiciation whether PIP was installed properly.
