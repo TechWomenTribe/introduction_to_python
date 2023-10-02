@@ -166,4 +166,4 @@ You should see the web page of the Notebook open in your browser, something like
 
 In order to close this session, press `CTRL + C` from your terminal.  
 
-That's it, you're all set and ready for the first part of the workshop! Good job! Now you can follow the instructions on `https://github.com/TechWomenTribe/my_weather_app/blob/main/README.md` to complete your preperation :)
+That's it, you're all set and ready for the first part of the workshop! Good job! Now you can follow the instructions [on the second part](https://github.com/TechWomenTribe/my_weather_app/blob/main/README.md) to complete your preperation :)
