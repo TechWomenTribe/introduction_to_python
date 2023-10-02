@@ -164,5 +164,6 @@ You should see the web page of the Notebook open in your browser, something like
 <img width="1581" alt="image" src="https://github.com/TechGirlsTribe1/introduction_to_python/assets/6695760/5c94c58d-4183-4957-b0da-2fba037fc5f0">
 
 
+In order to close this session, press `CTRL + C` from your terminal.  
 
-That's it, you're all set and ready for the workshop! good job!
+That's it, you're all set and ready for the first part of the workshop! Good job! Now you can follow the instructions on `https://github.com/TechWomenTribe/my_weather_app/blob/main/README.md` to complete your preperation :)
