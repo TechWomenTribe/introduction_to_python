@@ -25,6 +25,21 @@ If you're having problems in any of the steps, please do not hesitate to contact
 
 Now let's get this show on the road!
 
+### Setting yourself using Codespaces
+
+If you don't want to install anything on your machine you can use Github Codespaces. This provides you with a coding environment that works straight from your browser.
+
+If you want to set up everython on your laptop skip the rest of this section and go to the section "Install Git" of this README.
+
+To work with Codespaces do the following:
+
+- Click on the big green button that says "Code" at the top of this repository (make sure you are reading this `https://github.com/TechWomenTribe/introduction_to_python`)
+- Click "Create codespace on main". Wait for the environment to load.
+- You are now in the online coding editor. Nice! On the right sidebar go to "Extensions" (it's represented by an icon that looks like 4 blocks). Search for "Jupyter". Install the extension.
+- Great, now you can open notebooks. A notebook is a place where you can interactively execute small snippets of code. Perfect for this tutorial.
+
+If you did all of the above you can now proceed with the tutorial and ignore the rest of this README. The tutorials are in the folder "tutorial".
+
 ---
 
 ## What Will You Learn?
