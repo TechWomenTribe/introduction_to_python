@@ -29,7 +29,7 @@ Now let's get this show on the road!
 
 If you don't want to install anything on your machine you can use Github Codespaces. This provides you with a coding environment that works straight from your browser.
 
-If you want to set up everython on your laptop skip the rest of this section and go to the section "Install Git" of this README.
+If you want to set up everything on your laptop skip the rest of this section and go to the section "Install Git" of this README.
 
 To work with Codespaces do the following:
 
